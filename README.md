@@ -13,6 +13,7 @@ I am a passionate coder with strong database management skills. I enjoy tackling
 - [Data Analytics Essentials](https://www.credly.com/badges/f041675d-d2b4-4884-b934-e324cdc1a39a/public_url)
 - [Introduction to Data Analytics](https://simpli-web.app.link/e/AsqTysZ0vJb)
 - [Responisve Web Design - FreeCodeCamp](https://www.freecodecamp.org/certification/JarenTabutabo/responsive-web-design)
+- [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/JarenTabutabo/foundational-c-sharp-with-microsoft)
 
 ## Skill sets
 
