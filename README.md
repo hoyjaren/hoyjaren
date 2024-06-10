@@ -17,7 +17,7 @@ I am a passionate coder with strong database management skills. I enjoy tackling
 
 ## Skill sets
 
-- **Programming:** Java, JavaScript, Kotlin, Python
+- **Programming:** Java, JavaScript, Kotlin, Python, C#
 - **Databases:** IBM DB2 Cloud
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
