@@ -1,11 +1,13 @@
 # Hi there! 👋 I'm Jaren D. Tabutabo
 
-I am a passionate coder with strong database management skills. I enjoy tackling complex problems and crafting elegant solutions. My journey in tech began when I pursued the BS Information Technology program.
+I am a passionate coder with strong database management skills, enjoying the challenge of tackling complex problems and crafting elegant solutions. My journey in tech began with my pursuit of a BS in Information Technology.
+
+With strong coding skills, a continuous eagerness to learn and grow, and the ability to work on diverse projects, I am excited about the opportunity to join your team. Together, we can generate innovative ideas and bring them to life, helping your company achieve its goals.
 
 ## About me
 
 - **Name:** Jaren D. Tabutabo
-- **Education:** BS Information Technology, New Era University, 2020-Present
+- **Education:** BS Information Technology, New Era University, 2021-Present
 
 ## Certification
 
@@ -19,7 +21,7 @@ I am a passionate coder with strong database management skills. I enjoy tackling
 
 - **Programming:** Java, JavaScript, Kotlin, Python, C#
 - **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, VScode, Android Studio
 
 ## Contact me
 
