@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Jaren D. Tabutabo
 
-I am a passionate coder with strong database management skills, enjoying the challenge of tackling complex problems and crafting elegant solutions. My journey in tech began with my pursuit of a BS in Information Technology.
+I am a passionate coder with strong database management skills. I enjoy tackling complex problems and crafting elegant solutions. My journey in tech began when I pursued the BS Information Technology program.
 
 With strong coding skills, a continuous eagerness to learn and grow, and the ability to work on diverse projects, I am excited about the opportunity to join your team. Together, we can generate innovative ideas and bring them to life, helping your company achieve its goals.
 
@@ -27,3 +27,4 @@ With strong coding skills, a continuous eagerness to learn and grow, and the abi
 
 - **LinkedIn:** [Jaren D. Tabutabo on LinkedIn](https://www.linkedin.com/in/tabutabo-jaren19/)
 - **Email:** jarentabutabo12345@gmail.com
+- **Portfolio** https://my-portfolio-six-beta-19.vercel.app/
