@@ -27,4 +27,4 @@ With strong coding skills, a continuous eagerness to learn and grow, and the abi
 
 - **LinkedIn:** [Jaren D. Tabutabo on LinkedIn](https://www.linkedin.com/in/tabutabo-jaren19/)
 - **Email:** jarentabutabo12345@gmail.com
-- **Portfolio** https://my-portfolio-six-beta-19.vercel.app/
+- **Portfolio** https://portfolio-iota-sepia-80.vercel.app/
