@@ -20,7 +20,7 @@ With strong coding skills, a continuous eagerness to learn and grow, and the abi
 
 ## Skill sets
 
-- **Programming:** Java, JavaScript, Kotlin, Python, C#
+- **Programming:** Java/Spring, JavaScript, Kotlin, Python, C#, MERN Stack
 - **Databases:** IBM DB2 Cloud
 - **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, VScode, Android Studio
 
