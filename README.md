@@ -16,6 +16,7 @@ With strong coding skills, a continuous eagerness to learn and grow, and the abi
 - [Introduction to Data Analytics](https://simpli-web.app.link/e/AsqTysZ0vJb)
 - [Responisve Web Design - FreeCodeCamp](https://www.freecodecamp.org/certification/JarenTabutabo/responsive-web-design)
 - [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/JarenTabutabo/foundational-c-sharp-with-microsoft)
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/JarenTabutabo/javascript-algorithms-and-data-structures-v8)
 
 ## Skill sets
 
