@@ -7,6 +7,14 @@ Ambitious and dedicated 21-year-old student with a strong focus on Java developm
 
 # 💻 Tech Stack:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 📜 Certifications
+- [JavaScript Algorithms and Data Structure](https://www.freecodecamp.org/certification/JarenTabutabo/javascript-algorithms-and-data-structures-v8) - Issued by [FreeCodeCamp] on [August 25 2024]
+- [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/JarenTabutabo/foundational-c-sharp-with-microsoft) - Issued by [FreeCodeCamp] on [June 6 2024]
+- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/d9c3febf2ec84263b8f8d3c530d995f3) - Issued by [IBM] on [April 24 2024]
+- [Data Analytics](https://www.credly.com/badges/f041675d-d2b4-4884-b934-e324cdc1a39a/linked_in_profile) - Issued by [Cisco] on [March 25 2024]
+- [Responsive Web Design](https://www.freecodecamp.org/certification/JarenTabutabo/responsive-web-design) - Issued by [FreeCodeCamp] on [August 17 2023]
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=hoyjaren&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hoyjaren&theme=tokyonight&hide_border=false)<br/>
