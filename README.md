@@ -1,31 +1,27 @@
-# Hi there! 👋 I'm Jaren D. Tabutabo
+# 💫 About Me:
+Ambitious and dedicated 21-year-old student with a strong focus on Java development and Android application programming. Experienced in full-stack development, particularly with Firebase and real-time database management. Demonstrated technical expertise and leadership abilities as a capstone project leader. Eager to apply my skills and continue learning through hands-on experience in a challenging internship position.
 
-I am a passionate coder with strong database management skills. I enjoy tackling complex problems and crafting elegant solutions. My journey in tech began when I pursued the BS Information Technology program.
 
-With strong coding skills, a continuous eagerness to learn and grow, and the ability to work on diverse projects, I am excited about the opportunity to join your team. Together, we can generate innovative ideas and bring them to life, helping your company achieve its goals.
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/hoyjaren) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/hoyjaren/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tabutabo-jaren19/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@hoyjaren) 
 
-## About me
+# 💻 Tech Stack:
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hoyjaren&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hoyjaren&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoyjaren&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- **Name:** Jaren D. Tabutabo
-- **Education:** BS Information Technology, New Era University, 2021-Present
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=hoyjaren&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-## Certification
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-- [NoSQL and DBaaS 101](https://courses.cognitiveclass.ai/certificates/d9c3febf2ec84263b8f8d3c530d995f3)
-- [Data Analytics Essentials](https://www.credly.com/badges/f041675d-d2b4-4884-b934-e324cdc1a39a/public_url)
-- [Introduction to Data Analytics](https://simpli-web.app.link/e/AsqTysZ0vJb)
-- [Responisve Web Design - FreeCodeCamp](https://www.freecodecamp.org/certification/JarenTabutabo/responsive-web-design)
-- [Foundational C# with Microsoft](https://www.freecodecamp.org/certification/JarenTabutabo/foundational-c-sharp-with-microsoft)
-- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/JarenTabutabo/javascript-algorithms-and-data-structures-v8)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=hoyjaren&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-## Skill sets
+---
+[![](https://visitcount.itsvg.in/api?id=hoyjaren&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- **Programming:** Java/Spring, JavaScript, Kotlin, Python, C#, MERN Stack
-- **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML, VScode, Android Studio
-
-## Contact me
-
-- **LinkedIn:** [Jaren D. Tabutabo on LinkedIn](https://www.linkedin.com/in/tabutabo-jaren19/)
-- **Email:** jarentabutabo12345@gmail.com
-- **Portfolio** https://portfolio-iota-sepia-80.vercel.app/
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
