@@ -13,7 +13,4 @@ Ambitious and dedicated 22-year-old student with a strong focus on Java developm
 - [Data Analytics](https://www.credly.com/badges/f041675d-d2b4-4884-b934-e324cdc1a39a/linked_in_profile) - Issued by [Cisco] on [March 25 2024]
 - [Responsive Web Design](https://www.freecodecamp.org/certification/JarenTabutabo/responsive-web-design) - Issued by [FreeCodeCamp] on [August 17 2023]
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
