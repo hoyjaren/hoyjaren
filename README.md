@@ -1,4 +1,4 @@
-![Banner](Black and Teal Modern Web Developer Presentation.png) 
+![Banner](https://github.com/hoyjaren/hoyjaren/blob/d35318ec16f724265311cf132aa2d63290b688f9/Black%20and%20Teal%20Modern%20Web%20Developer%20Presentation.png) 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hoyjaren) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/tabutabo-jaren19/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jarentabutabo12345@gmail.com) 
